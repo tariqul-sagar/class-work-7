@@ -1,0 +1,18 @@
+h2{
+	margin: 0 0 20px;
+	padding: 10px 0;
+	font-size: 28px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #626262;
+}
+h2:not(:first-child){
+	margin: 20px 0;
+}
+section{
+	margin: 10px 0;
+}
+.box{
+	min-height: 200px;
+	background: skyblue;
+}
